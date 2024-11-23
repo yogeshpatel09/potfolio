@@ -25,7 +25,7 @@ const Footer = () => {
           Reach out to me today and let&apos;s discuss how I can help you
           achieve your goals.
         </p>
-        <a href="https://drive.google.com/file/d/122J0WzZOXhEjWgOeag2tw9aeJOOw2YMp/view">
+        <a href="https://drive.google.com/drive/folders/1sVSv4z0jJRctfDm24_KDuo-moL_ZksRl">
           <MagicButton
             title="Let's get my Cv"
             icon={<FaLocationArrow />}
